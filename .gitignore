@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.py[cod]
+*.db
+data/
+imj/
+.venv/
+venv/
+.idea/
+.vscode/
+*.xls
+!issues-examples-v2.xls
